@@ -5,7 +5,7 @@ This project analyzes barriers to mobile money adoption in South Africa and sele
 
 ## Project Structure
 - *README.md*: This file, providing an overview and instructions.
-- *report.docx*: LaTeX source file for the 7-page project report.
+- *report.docx*: A 7-page project report.
 - *WB_FINDEX_FIN14A/*: Directory for raw data files (if extracted from the script).
 - *WB_FINDEX_FIN14D/*: Directory for raw data files (if extracted from the script).
 - *FinancialBarriers/*: Directory for the generated visualizations and database files (e.g., findex.db).
