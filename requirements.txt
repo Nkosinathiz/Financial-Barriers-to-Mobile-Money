@@ -1,0 +1,10 @@
+### Python Libraries
+pandas
+numpy
+matplotlib
+seaborn
+sqlite3
+streamlit
+plotly.express
+plotly.subplots
+plotly.graph_objects
