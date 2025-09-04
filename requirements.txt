@@ -1,11 +1,11 @@
-### Python Libraries
+# Core libraries
 pandas
 numpy
+
+# Visualization
 matplotlib
-matplotlib.pyplot
 seaborn
-sqlite3
+plotly
+
+# Web app
 streamlit
-plotly.express
-plotly.subplots
-plotly.graph_objects
